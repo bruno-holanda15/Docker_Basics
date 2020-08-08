@@ -1,0 +1,15 @@
+﻿28/07/2020
+
+Inicio treinamento Docker.
+Módulos 1 ao 6.
+
+Dúvidas:
+    • Construção de servidor com python?? Devo me preocupar na construção do servidor ou na execução da image?
+    • tipos de conexões. Usabilidade ?? Comunição entre containers e proteção(acho que é isso).
+    • Devo fazer um curso de Linux para complementar?
+    • Exemplos de mapeamento de volumes? Não entendi muito bem o sentido de mapear arquivos do host para os containers.
+
+Temos basicamente containers, images e network para trabalharmos com Docker por enquanto.
+
+
+      
